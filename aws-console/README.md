@@ -11,6 +11,9 @@ This project demonstrates the deployment of a multi-tiered architecture on AWS, 
 
 ![Architecture diagram 2](/architecture-diagrams/3-tier-architecture-igw-nat-subnets-rt.png)
 
+##### 3. Example AWS services to explore in this project.
+![Architecture diagram 3](/architecture-diagrams/AWS-resources.png)
+
 ## Architecture Breakdown
 
 ### 1. Public-Facing Load Balancer
