@@ -1,6 +1,9 @@
 .env
 /env
 
+/*.txt 
+*.txt
+
 *.tfstate
 *.tfstate.*
 *.tfstate*
@@ -14,6 +17,3 @@
 # ignore this folders for now
 terraform-aws/
 terraform-aws
-
-project-template/
-project-template
