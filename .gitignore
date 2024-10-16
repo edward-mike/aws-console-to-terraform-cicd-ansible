@@ -1,0 +1,19 @@
+.env
+/env
+
+*.tfstate
+*.tfstate.*
+*.tfstate*
+*.tfstate
+*.backup*
+*.hcl.*
+*.backup
+.terraform/
+.terraform.lock.hcl
+
+# ignore this folders for now
+terraform-aws/
+terraform-aws
+
+project-template/
+project-template

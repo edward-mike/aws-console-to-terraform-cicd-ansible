@@ -1,0 +1,67 @@
+terraform setup.
+    -- setup terraform with providers
+    -- configure terraform remote backend (optional)
+
+................................................................................................
+
+
+1. [ Networking ] 
+
+    Step 1: Create the VPC
+    Step 2: Create the subnets 
+    Step 3: Create Internet Gateway
+    Step 4: Create NAT Gateway
+    Step 5: Create Route Tables
+    Step 6: Associate Route Tables to Public and Private Subnets
+
+
+2. [ Compute ]
+    Step 1: Create Security Groups
+            - Create Security Groups for :
+                1. External Load Balancer 
+                2. Internet Load Balancer
+                3. Web-Tier Security Group
+                4. App-Tier Security Group
+                5. Db-Tier Security Group
+    Setp 2: 
+
+
+3. [ Database ]
+
+
+.................................................................................................
+
+Touch on :
+- VPC 
+- EC2
+- ALB
+- IAM 
+- EFS   
+- EBS
+- RDS
+- S3 
+- ASG
+- CloudWatch 
+- X-ray
+- CloudTrail 
+- SNS
+- Route53
+
+Explore : 
+> AWS (Bedrock, Lex, AWS Gateway, DynamoDB)
+> ECS, ECR, EKS ... CodeBuild/Codepipeline/CodeDeploy
+
+...................................................................................................
+
+Resources :
+    # Youtube (primary video):
+        
+        AWS Console.
+        -- https://www.youtube.com/watch?v=spt3Grgfvu0&list=PLZx2wf3uhtnA6_z6ODfLUdjp38ZcsSU4n
+        -- https://www.youtube.com/watch?v=jyb3mhtVgnI&list=PLZx2wf3uhtnA6_z6ODfLUdjp38ZcsSU4n&index=2
+        -- https://www.youtube.com/watch?v=Mn1-kgU0lqc&list=PLZx2wf3uhtnA6_z6ODfLUdjp38ZcsSU4n&index=4
+
+        + https://www.youtube.com/watch?v=miij_0HkBws
+        + https://www.youtube.com/watch?v=iF9fs8Rw4Uo
+        + https://www.youtube.com/watch?v=KNr3Kq7cah8&t=450s
+        + https://www.youtube.com/watch?v=MkiWa31iV6U
